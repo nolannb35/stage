@@ -74,6 +74,11 @@ www.ensai.fr
 
 \newpage
 
+\renewcommand{\contentsname}{Sommaire}
+\tableofcontents
+
+\newpage
+
 <!-- ==================================================================
      1/ NOTE SUR LE CHOIX DU STAGE — 3 pts — 1 page
      Sert de préface. Rappelle en en-tête nom/prénom, intitulé et
