@@ -1,0 +1,176 @@
+---
+title: ""
+format:
+  pdf:
+    documentclass: article
+    code-line-numbers: true
+    include-in-header:
+      - text: |
+          \usepackage{setspace}
+          \onehalfspacing
+          \usepackage{indentfirst}
+          \setlength{\parindent}{2em}
+          \setlength{\parskip}{1em}
+lang: fr
+fontsize: 11pt
+papersize: a4
+geometry: top=1.5cm, bottom=1.5cm, left=2.5cm, right=2.5cm
+---
+
+<!-- ==================================================================
+     PAGE DE GARDE
+     -> Place tes logos dans un dossier "images/" à côté de ce fichier :
+        images/ensai_logo.png  et  images/admr_logo.png (logo ADMR)
+     -> Remplace tous les champs entre [ ]
+     ================================================================== -->
+
+```{=latex}
+\begin{titlepage}
+\begin{center}
+
+% --- Logo ENSAI (remplace le chemin si besoin) ---
+\includegraphics[width=0.45\textwidth]{images/ensai_logo_1.png}
+
+\vspace{1.5cm}
+
+{\LARGE \textbf{RAPPORT DU STAGE}}\\[0.3cm]
+{\LARGE \textbf{OPÉRATEUR DE 1re ANNÉE}}
+
+\vspace{1cm}
+
+\begin{flushleft}
+\textbf{STRUCTURE D'ACCUEIL :} ADMR Pays de Montfort \\
+\textbf{SUJET DU STAGE :} Intervenant a domicile \\
+\textbf{LIEU DE STAGE :} 2 Rue du Suroît 35160 MONTFORT SUR MEU
+\end{flushleft}
+
+\vspace{1.5cm}
+
+\textbf{Stagiaire :} BOUGIS Nolann \\[0.2cm]
+\textbf{Promotion :} 2026 \\[0.2cm]
+\textbf{Date :} Juillet 2026
+
+\vfill
+
+% --- Logo ADMR ---
+\includegraphics[width=0.3\textwidth]{images/admr_logo.png}
+
+\end{center}
+
+\vspace{1cm}
+
+\hfill
+\begin{minipage}[t]{0.4\textwidth}
+\raggedleft
+Campus de Ker Lann rue Blaise Pascal \\
+BP37203 35172 BRUZ CEDEX \\
+Tél : +33 (0) 2 99 05 32 32 \\
+Fax : +33 (0) 2 99 05 32 05 \\
+www.ensai.fr
+\end{minipage}
+
+\end{titlepage}
+```
+
+\newpage
+
+<!-- ==================================================================
+     1/ NOTE SUR LE CHOIX DU STAGE — 3 pts — 1 page
+     Sert de préface. Rappelle en en-tête nom/prénom, intitulé et
+     localisation du stage (déjà fait ci-dessus sur la page de garde).
+     ================================================================== -->
+
+# Note sur le choix du stage de 2ᵉ année
+
+## Recherche du stage
+<!-- Méthode de recherche, ressources utilisées, difficultés rencontrées,
+     bonnes et mauvaises surprises -->
+
+## Choix du stage
+<!-- Ce qui a motivé le choix : localisation, international, relation
+     familiale/amicale, intérêt de l'activité, etc. -->
+
+## Attentes concernant le stage
+<!-- Ce que tu en attends : expérience professionnelle, relations
+     humaines, découvertes culturelles… en lien avec les caractéristiques
+     du stage et/ou ta personnalité -->
+
+\newpage
+
+<!-- ==================================================================
+     2/ OBSERVATION ET DESCRIPTION DU TRAVAIL — 7 pts — 4 pages
+     (annexe possible de 5 pages, ne compte pas dans le total)
+     ================================================================== -->
+
+# Observation et description du travail
+
+## Lieu d'accueil
+
+### Bref historique
+### Activité réalisée
+### Personnel employé
+
+## La commande : le travail à réaliser par le stagiaire
+<!-- Utilité du travail pour l'entreprise -->
+
+## Management, relations de travail et relations humaines
+
+## Organisation et télétravail
+<!-- Éléments d'organisation/management liés au télétravail, pour
+     l'entreprise en général et pour toi en particulier -->
+
+## Travail réalisé
+<!-- Description de la réalisation des tâches et principaux résultats
+     obtenus. Possibilité de renvoyer vers une annexe (5 pages max). -->
+
+\newpage
+
+<!-- ==================================================================
+     3/ VOTRE RESSENTI DE L'EXPÉRIENCE — 6 pts — 2 à 3 pages
+     ================================================================== -->
+
+# Ressenti de l'expérience
+
+## Surprises et étonnements
+
+## Évolution du regard sur le monde du travail
+
+## Télétravail (le cas échéant)
+<!-- Appréciation du télétravail, impact sur ta production, ce qui
+     aurait changé en présentiel -->
+
+## Regrets
+<!-- Ce que tu n'as pas fait, pas osé faire… -->
+
+## Vie en dehors du travail
+<!-- Difficultés (santé, hébergement, déplacements, repas, tâches
+     ménagères, solitude, ennui…) et comment tu les as surmontées ;
+     opportunités saisies (visites, rencontres, culture, langue…) -->
+
+\newpage
+
+<!-- ==================================================================
+     4/ PRISE DE RECUL / ANALYSE D'EXPÉRIENCE — 4 pts — 1 à 2 pages
+     ================================================================== -->
+
+# Prise de recul / analyse d'expérience
+
+## Réponse aux attentes initiales
+
+## Principaux points de satisfaction et enseignements
+
+## Compétences mises en œuvre
+<!-- Savoir-faire et savoir-être -->
+
+## Conseils à un futur stagiaire
+
+\newpage
+
+# Bibliographie
+<!-- [1] Auteur, Titre, lien -->
+
+<!-- ==================================================================
+     ANNEXES (ne comptent pas dans le nombre de pages demandé)
+     ================================================================== -->
+
+# Annexes
