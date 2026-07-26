@@ -50,22 +50,22 @@ geometry: top=1.5cm, bottom=1.5cm, left=2.5cm, right=2.5cm
 \textbf{Promotion :} 2026 \\[0.2cm]
 \textbf{Date :} Juillet 2026
 
-\vfill
-
-% --- Logo ADMR ---
-\includegraphics[width=0.3\textwidth]{images/admr_logo.png}
-
 \end{center}
 
-\vspace{1cm}
+\vspace{8cm}
 
+\begin{minipage}[b]{0.35\textwidth}
+% --- Logo ADMR ---
+\includegraphics[width=0.6\textwidth]{images/admr_logo.png}
+\end{minipage}%
 \hfill
-\begin{minipage}[t]{0.4\textwidth}
+\begin{minipage}[b]{0.55\textwidth}
+\small
 \raggedleft
-Campus de Ker Lann rue Blaise Pascal \\
-BP37203 35172 BRUZ CEDEX \\
-Tél : +33 (0) 2 99 05 32 32 \\
-Fax : +33 (0) 2 99 05 32 05 \\
+Campus de Ker Lann rue Blaise Pascal\\
+BP37203 35172 BRUZ CEDEX\\
+Tél : +33 (0) 2 99 05 32 32\\
+Fax : +33 (0) 2 99 05 32 05\\
 www.ensai.fr
 \end{minipage}
 
