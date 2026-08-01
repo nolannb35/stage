@@ -28,7 +28,7 @@ geometry: top=1.5cm, bottom=1.5cm, left=2.5cm, right=2.5cm
 \begin{titlepage}
 \begin{center}
 
-% --- Logo ENSAI (remplace le chemin si besoin) ---
+% --- Logo ENSAI ---
 \includegraphics[width=0.45\textwidth]{images/ensai_logo_1.png}
 
 \vspace{1.5cm}
@@ -85,7 +85,15 @@ www.ensai.fr
      localisation du stage (déjà fait ci-dessus sur la page de garde).
      ================================================================== -->
 
-# Note sur le choix du stage de 2ᵉ année
+# Note sur le choix du stage de 2^e^ année
+
+\begin{minipage}[b]{3.5\textwidth}
+\textbf{Intitulé du stage :} Intervenant a domicile à l'ADMR \\
+\textbf{Localisation du stage :} 2 Rue du Suroît 35160 MONTFORT SUR MEU \\
+\textbf{NOM :} BOUGIS \\
+\textbf{Prénom :} Nolann
+\end{minipage}
+
 
 ## Recherche du stage
 <!-- Méthode de recherche, ressources utilisées, difficultés rencontrées,
